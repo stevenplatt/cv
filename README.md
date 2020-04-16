@@ -9,22 +9,28 @@ Network Researcher, Wireless and Distributed Systems
 ---
 ## Work Experience
 ### Pompeu Fabra University
+Wireless Researcher, 2018-current
 
 ### Twitter
+Systems Engineer II, 2014-2017
 
 ### Salesforce.com
+Network Engineer, 2012-2014
 
 ### Caterpillar Inc
+IT Analyst II, 2007-2012
+
 ---
 ## Research Activity
 ### Publications
-* "Towards Blockchain for Decentralized Self-Organizing Wireless Networks". S Platt, M Oliver. *2019 IEEE Globecom Workshops (GC Wkshps)*, 1-5
-* "A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface". S Platt, M Oliver. *2019 IEEE 5th World Forum on Internet of Things (WF-IoT)*, 402-407
+2019: *Towards Blockchain for Decentralized Self-Organizing Wireless Networks*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5
+
+2019: *A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407
 
 ### Research Projects
-2018-current: Blockchain as Virtual Network Function for the Cellular Core, [GitHub]()
+2018-current: Blockchain as Virtual Network Function for the Cellular Core, [GitHub](https://github.com/stevenplatt/spectrum-protocol)
 
-*2017-2018*: Application Layer Modeling in Vehicle Networks, [GitHub]()
+2017-2018: Application Layer Modeling in Vehicle Networks, [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
 
 ---
 ## Conferences and Talks
