@@ -1,28 +1,30 @@
 # Steven Platt
-Network Researcher, Wireless and Distributed Systems
+Network Researcher, San Francisco, California
+
+Website: https://stevenplatt.github.io, Email: steven@ieee.org
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-2021
 
 * *M.S. Wireless Communications*, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
 
-* *MBA. Business Administration*, Illinois State University, IL. USA, 2009-2012
+* *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
 
-* *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, IL. USA, 2004-2007
+* *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ---
 ## Work Experience
 ### Pompeu Fabra University
-**Wireless Researcher**, 2018-current
+**Research Fellow**, Barcelona, Spain, 2018-current
 
 ### Twitter
-**Systems Engineer II**, 2014-2017
+**Systems Engineer II**, San Francisco, US, 2014-2017
 
 ### Salesforce.com
-**Network Engineer**, 2012-2014
+**Network Engineer**, San Francisco, US, 2012-2014
 
 ### Caterpillar Inc
-**IT Analyst II**, 2007-2012
+**IT Analyst II**, Peoria, US, 2007-2012
 
 ---
 ## Awards and Fellowships
