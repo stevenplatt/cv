@@ -2,10 +2,10 @@
 Network Researcher, Wireless and Distributed Systems
 
 ## Education
-* Pompeu Fabra University, *PhD. Information and Communications Technologies*, 2018-2021
-* Polytechnic University of Catalonia, *M.S. Wireless Communications*, 2017-2018
-* Illinois State University, *MBA*, 2009-2012
-* Southern Illinois University, *B.S. Electronic Systems Engineering*, 2004-2007
+2018-2021: PhD. Information and Communications Technologies, *Pompeu Fabra University*, Barcelona, Spain
+2017-2018: M.S. Wireless Communications, *Polytechnic University of Catalonia*, Barcelona, Spain
+2009-2012: MBA, *Illinois State University*, Illinois, USA
+2004-2007: B.S. Electronic Systems Engineering, *Southern Illinois University at Carbondale*, Illinois, USA
 
 ---
 ## Work Experience
@@ -20,6 +20,12 @@ Network Engineer, 2012-2014
 
 ### Caterpillar Inc
 IT Analyst II, 2007-2012
+
+---
+## Awards and Fellowships
+2018-current: Plan Nacional, Pompeu Fabra University, Barcelona, Spain
+
+2004-2007: Dean's Scholarship, Southern Illinois University at Carbondale, USA
 
 ---
 ## Research Activity
