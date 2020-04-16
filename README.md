@@ -43,7 +43,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ---
 ## Conferences and Talks
-* Enterprise Connect 2017, SIP Trunking Best Practices , Panel
+* Enterprise Connect 2017, SIP Trunking Best Practices, Panel
 * Twilio Signal 2016, Enterprise SIP Trunking, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ## Technical Skills
