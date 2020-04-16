@@ -18,6 +18,8 @@ Network Researcher, Wireless and Distributed Systems
 ---
 ## Research Activity
 ### Publications
+* Towards Blockchain for Decentralized Self-Organizing Wireless Networks. S Platt, M Oliver. 2019 IEEE Globecom Workshops (GC Wkshps), 1-5
+* A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface. S Platt, M Oliver. 2019 IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407
 
 ### Research Projects
 ---
