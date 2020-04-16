@@ -47,7 +47,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Twilio Signal 2016, Enterprise SIP Trunking, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ## Technical Skills
-* Research: 802.11x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Blockchain
+* Research: 802.11x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Network Concensus
 * Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN
 
 ---
