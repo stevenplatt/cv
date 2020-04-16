@@ -6,7 +6,7 @@ Network Researcher, Wireless and Distributed Systems
 
 * *M.S. Wireless Communications*, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
 
-* *MBA, Business Administration*, Illinois State University, IL. USA, 2009-2012
+* *MBA. Business Administration*, Illinois State University, IL. USA, 2009-2012
 
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, IL. USA, 2004-2007
 
@@ -26,9 +26,9 @@ Network Researcher, Wireless and Distributed Systems
 
 ---
 ## Awards and Fellowships
-2018-current: Plan Nacional, Pompeu Fabra University, Barcelona, Spain
+2018-current: *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain
 
-2004-2007: Dean's Scholarship, Southern Illinois University at Carbondale, IL. USA
+2004-2007: *Dean's Scholarship*, Southern Illinois University at Carbondale, IL. USA
 
 ---
 ## Research Activity
