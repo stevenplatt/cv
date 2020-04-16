@@ -30,7 +30,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 **Network Engineer**, San Francisco, US, 2012-2014
 
 * Principle deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
-
 * High availability support for enterprise Datacenter, LAN, WAN, Wireless, Firewall, VPN, and Load Balancer network systems.
 
 ### Caterpillar Inc
