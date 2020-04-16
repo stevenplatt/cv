@@ -16,9 +16,10 @@ Network Researcher, Wireless and Distributed Systems
 
 ### Caterpillar Inc
 ---
-## Publications
+## Research Activity
+### Publications
 
-## Research Projects
+### Research Projects
 ---
 ## Conferences and Talks
 * Enterprise Connect 2017, SIP Trunking Best Practices , Panel
