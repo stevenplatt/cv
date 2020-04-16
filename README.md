@@ -9,15 +9,21 @@ Network Researcher, Wireless and Distributed Systems
 
 ## Work Experience
 
-## Research
+## Publications
 
-### Publications
-
-### Research Projects
+## Research Projects
 
 ## Conferences and Talks
 
-## Technical Skills
+## Research and Technical Skills
+* Advanced: 802.11x, LTE, 5G NR, SIP, ISDN, Blockchain
+* Intermediate: Python, Matlab, LaTex, Javascript, Git, Linux
+* Beginner: C/C++, Java, Docker, SDN
+
+## Community Involvement
+* IEEE Communications Society, Member, 2017-current
+* Delta Sigma Phi, Member, 2008-current
+* Southern Illinois University, Alumni Advisory Board, 2007 - current
 
 ## Languages
 * English (Native)
