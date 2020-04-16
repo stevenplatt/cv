@@ -2,10 +2,10 @@
 Network Researcher, Wireless and Distributed Systems
 
 ## Education
-* Pompeu Fabra University, PhD. Information and Communications Technologies, 2018-2021
-* Polytechnic University of Catalonia, M.S. Wireless Communications, 2017-2018
-* Illinois State University, MBA, 2009-2012
-* Southern Illinois University, B.S. Electronic Systems Engineering, 2004-2007
+* Pompeu Fabra University, *PhD. Information and Communications Technologies*, 2018-2021
+* Polytechnic University of Catalonia, *M.S. Wireless Communications*, 2017-2018
+* Illinois State University, *MBA*, 2009-2012
+* Southern Illinois University, *B.S. Electronic Systems Engineering*, 2004-2007
 ---
 ## Work Experience
 ### Pompeu Fabra University
@@ -22,7 +22,10 @@ Network Researcher, Wireless and Distributed Systems
 * "A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface". S Platt, M Oliver. 2019 IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407
 
 ### Research Projects
-#### Blockchain as Virtual Network Function for the Cellular Core
+Blockchain as Virtual Network Function for the Cellular Core, *current*, [GitHub]()
+
+Application Layer Modeling in Vehicle Networks, *2017-2018*, [GitHub]()
+
 ---
 ## Conferences and Talks
 * Enterprise Connect 2017, SIP Trunking Best Practices , Panel
