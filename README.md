@@ -3,29 +3,32 @@ Network Researcher, Wireless and Distributed Systems
 
 ## Education
 2018-2021: PhD. Information and Communications Technologies, *Pompeu Fabra University*, Barcelona, Spain
+
 2017-2018: M.S. Wireless Communications, *Polytechnic University of Catalonia*, Barcelona, Spain
-2009-2012: MBA, *Illinois State University*, Illinois, USA
-2004-2007: B.S. Electronic Systems Engineering, *Southern Illinois University at Carbondale*, Illinois, USA
+
+2009-2012: MBA, *Illinois State University*, IL. USA
+
+2004-2007: B.S. Electronic Systems Engineering, *Southern Illinois University at Carbondale*, IL. USA
 
 ---
 ## Work Experience
 ### Pompeu Fabra University
-Wireless Researcher, 2018-current
+**Wireless Researcher**, 2018-current
 
 ### Twitter
-Systems Engineer II, 2014-2017
+**Systems Engineer II**, 2014-2017
 
 ### Salesforce.com
-Network Engineer, 2012-2014
+**Network Engineer**, 2012-2014
 
 ### Caterpillar Inc
-IT Analyst II, 2007-2012
+**IT Analyst II**, 2007-2012
 
 ---
 ## Awards and Fellowships
 2018-current: Plan Nacional, Pompeu Fabra University, Barcelona, Spain
 
-2004-2007: Dean's Scholarship, Southern Illinois University at Carbondale, USA
+2004-2007: Dean's Scholarship, Southern Illinois University at Carbondale, IL. USA
 
 ---
 ## Research Activity
