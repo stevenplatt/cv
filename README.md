@@ -14,6 +14,7 @@ Network Researcher, Wireless and Distributed Systems
 ## Research Projects
 
 ## Conferences and Talks
+* Twilio Signal 2016, Enterprise SIP Trunking [video] (https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ## Research and Technical Skills
 * Advanced: 802.11x, LTE, 5G NR, SIP, ISDN
