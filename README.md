@@ -16,8 +16,8 @@ Network Researcher, Wireless and Distributed Systems
 ## Conferences and Talks
 
 ## Research and Technical Skills
-* Advanced: 802.11x, LTE, 5G NR, SIP, ISDN, Blockchain
-* Intermediate: Python, Matlab, LaTex, Javascript, Git, Linux
+* Advanced: 802.11x, LTE, 5G NR, SIP, ISDN
+* Intermediate: Python, Matlab, LaTex, Javascript, Git, Linux, Blockchain
 * Beginner: C/C++, Java, Docker, SDN
 
 ## Community Involvement
