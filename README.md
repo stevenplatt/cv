@@ -43,12 +43,12 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ---
 ## Conferences and Talks
-* Enterprise Connect 2017, SIP Trunking Best Practices, Panel
+* Enterprise Connect 2017, SIP Trunking Best Practices
 * Twilio Signal 2016, Enterprise SIP Trunking, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ## Technical Skills
 * Research: 802.11x, LTE, 5G NR, Blockchain, Network Localization, Stocastic Geometry, Signal Processing
-* Applied: Python, Java, Atoll, Matlab, LaTex, Javascript, Git, Linux, SIP, ISDN, Docker
+* Applied: Python, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Javascript, Git, Linux, SIP, ISDN, Docker
 
 ---
 ## Languages
