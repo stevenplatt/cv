@@ -1,5 +1,5 @@
 # Steven Platt
-Network Researcher, Member: IEEE, Delta Sigma Phi
+Network Researcher. Member: IEEE, Delta Sigma Phi
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
@@ -14,11 +14,24 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ### Pompeu Fabra University
 **Research Fellow**, Barcelona, Spain, 2018-current
 
+* Teaching: Networks [Year 1]
+* Teaching: Blockchain Technologies [Year 3]
+* Teaching: Radio Communications [Year 3]
+* Research: Blockchain for decentralized coordination in wireless networks.
+
 ### Twitter.com
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
+* Designed global SIP VoIP network that will reduce Twitter's phone network costs globally 72%, reduce delivery time from 12 weeks to 2, and allow full remote deployment in 41 countries.
+* Completed Cisco, Juniper, and ShoreTel network deployments in Australia, Brazil, France, Ireland, India, Singapore, United Kingdom, and the United States.
+
+
 ### Salesforce.com
 **Network Engineer**, San Francisco, US, 2012-2014
+
+* Principle deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
+
+* High availability support for enterprise Datacenter, LAN, WAN, Wireless, Firewall, VPN, and Load Balancer network systems.
 
 ### Caterpillar Inc
 **IT Analyst II**, Peoria, US, 2007-2012
