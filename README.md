@@ -17,7 +17,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ### Pompeu Fabra University
 **Research Fellow**, Barcelona, Spain, 2018-current
 
-### Twitter
+### Twitter.com
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
 ### Salesforce.com
