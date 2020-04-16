@@ -8,6 +8,13 @@ Network Researcher, Wireless and Distributed Systems
 * Southern Illinois University, B.S. Electronic Systems Engineering, 2004-2007
 
 ## Work Experience
+### Pompeu Fabra University
+
+### Twitter
+
+### Salesforce.com
+
+### Caterpillar Inc
 
 ## Publications
 
@@ -17,10 +24,9 @@ Network Researcher, Wireless and Distributed Systems
 * Enterprise Connect 2017, SIP Trunking Best Practices , Panel
 * Twilio Signal 2016, Enterprise SIP Trunking, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
-## Applied Technical Skills
-* Advanced: 802.11x, LTE, 5G NR, SIP, ISDN
-* Intermediate: Python, Matlab, LaTex, Javascript, Git, Linux, Blockchain
-* Beginner: C/C++, Java, Docker, SDN
+## Technical Skills
+* Research: 802.11x, LTE, 5G NR, Blockchain
+* Applied: Python, Java, Matlab, LaTex, Javascript, Git, Linux, SIP, ISDN, Docker
 
 ## Community Involvement
 * IEEE Communications Society, Member, 2017-current
