@@ -22,9 +22,9 @@ Network Researcher, Wireless and Distributed Systems
 * "A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface". S Platt, M Oliver. *2019 IEEE 5th World Forum on Internet of Things (WF-IoT)*, 402-407
 
 ### Research Projects
-*2018-current*:⋅⋅⋅⋅⋅⋅Blockchain as Virtual Network Function for the Cellular Core, [GitHub]()
+2018-current: Blockchain as Virtual Network Function for the Cellular Core, [GitHub]()
 
-*2017-2018*:⋅⋅⋅Application Layer Modeling in Vehicle Networks, [GitHub]()
+*2017-2018*: Application Layer Modeling in Vehicle Networks, [GitHub]()
 
 ---
 ## Conferences and Talks
