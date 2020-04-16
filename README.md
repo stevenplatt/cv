@@ -1,7 +1,7 @@
 # Steven Platt
-Network Researcher, San Francisco, California
+Network Researcher
 
-Website: https://stevenplatt.github.io, Email: steven@ieee.org
+Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-2021
