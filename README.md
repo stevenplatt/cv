@@ -5,11 +5,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-2021
-
 * *M.S. Wireless Communications*, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
-
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
-
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ---
