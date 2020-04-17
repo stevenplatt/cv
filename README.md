@@ -42,6 +42,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 2019: *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407
 
+### Patents
+
 ### Research Projects
 2018-current: Blockchain as Virtual Network Function for the Cellular Core, [GitHub](https://github.com/stevenplatt/spectrum-protocol)
 
@@ -53,21 +55,21 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 2004-2007: *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US
 
 ---
-## Conferences and Talks
+### Conferences and Talks
 * UBM, Enterprise Connect 2017, *"SIP Trunking Best Practices"*
 * Twilio, Signal 2016, *"Enterprise SIP Trunking"*, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
-## Certificates
+### Certificates
 
 ## Technical Skills
 * Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Network Consensus
 * Applied: Python, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
 
 ---
-## Community Involvement
+### Community Involvement
 * Southern Illinois University at Carbondale, College of Applied Sciences, *Alumni Advisory Board*, 2007-current
 * San Francisco Freeswitch Users Group, *Organizer*, 2016-2017
 
-## Languages
+### Languages
 * English, *native*
 * Spanish, *intermediate*
