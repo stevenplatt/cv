@@ -3,7 +3,7 @@ Network Researcher. Member: IEEE, Delta Sigma Phi
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
-## Education
+### Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-2021
 * *M.S. Wireless Communications*, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
@@ -61,7 +61,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Certificates
 
-## Technical Skills
+### Technical Skills
 * Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Network Consensus
 * Applied: Python, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
 
