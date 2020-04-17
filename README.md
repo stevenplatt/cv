@@ -50,18 +50,19 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ### Awards and Fellowships
 2018-current: *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain
 
-2004-2007: *Dean's Scholarship*, Southern Illinois University at Carbondale, IL. USA
+2004-2007: *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US
 
 ---
 ## Conferences and Talks
 * UBM, Enterprise Connect 2017, *"SIP Trunking Best Practices"*
 * Twilio, Signal 2016, *"Enterprise SIP Trunking"*, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
+* <a href="https://stevenplatt.github.io/" target="_blank">example</a>
 
 ## Certificates
 
 ## Technical Skills
-* Research: 802.11x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Network Consensus
-* Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
+* Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Network Consensus
+* Applied: Python, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
 
 ---
 ## Community Involvement
