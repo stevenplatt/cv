@@ -58,6 +58,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * UBM, Enterprise Connect 2017, *"SIP Trunking Best Practices"*
 * Twilio, Signal 2016, *"Enterprise SIP Trunking"*, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
+## Certificates
+
 ## Technical Skills
 * Research: 802.11x, LTE, 5G NR, Network Localization, Stocastic Geometry, Signal Processing, Network Consensus
 * Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
@@ -65,7 +67,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ---
 ## Community Involvement
 * San Francisco Freeswitch Users Group, *Organizer*, 2016-2017
-* Southern Illinois University, *Alumni Advisory Board, College of Applied Sciences*, 2007-current
+* Southern Illinois University at Carbondale, College of Applied Sciences, *Alumni Advisory Board*, 2007-current
 
 ## Languages
 * English, *native*
