@@ -36,12 +36,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 **IT Analyst II**, Peoria, US, 2007-2012
 
 ---
-## Awards and Fellowships
-2018-current: *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain
-
-2004-2007: *Dean's Scholarship*, Southern Illinois University at Carbondale, IL. USA
-
----
 ## Research Activity
 ### Publications
 2019: *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5
@@ -52,6 +46,11 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 2018-current: Blockchain as Virtual Network Function for the Cellular Core, [GitHub](https://github.com/stevenplatt/spectrum-protocol)
 
 2017-2018: Application Layer Modeling in Vehicle Networks, [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
+
+### Awards and Fellowships
+2018-current: *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain
+
+2004-2007: *Dean's Scholarship*, Southern Illinois University at Carbondale, IL. USA
 
 ---
 ## Conferences and Talks
