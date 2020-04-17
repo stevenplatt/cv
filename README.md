@@ -63,6 +63,10 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
 
 ---
+## Community Involvement
+* San Francisco Freeswitch Users Group, *Organizer*, 2016-2017
+* Southern Illinois University, *Alumni Advisory Board, College of Applied Sciences*, 2007-current
+
 ## Languages
 * English, *native*
 * Spanish, *intermediate*
