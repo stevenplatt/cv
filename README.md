@@ -56,7 +56,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ## Conferences and Talks
 * UBM, Enterprise Connect 2017, *"SIP Trunking Best Practices"*
 * Twilio, Signal 2016, *"Enterprise SIP Trunking"*, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
-* <a href="https://stevenplatt.github.io/" target="_blank">example</a>
 
 ## Certificates
 
