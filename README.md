@@ -57,6 +57,11 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Twilio, Signal 2016, *"Enterprise SIP Trunking"* - [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ### Certificates
+* Computer Architecture, *Online Course Offered by Princeton University*
+* Analysis of Algorithms, *Online Course Offered by Princeton University*
+* Digital Signal processing, *Online Course Offered by École Polytechnique Fédérale de Lausanne*
+* Introduction to FPGA Design for Embedded Systems, *Online Course Offered by University of Colorado Boulder*
+* Expanded FPGA Training with NIOS II, *Online Course Offered by University of Colorado Boulder*
 
 ### Technical Skills
 * Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stochastic Geometry, Signal Processing, Network Consensus
