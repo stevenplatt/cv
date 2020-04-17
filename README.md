@@ -44,8 +44,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ### Patents
 
 ### Research Projects
-* Blockchain as Virtual Network Function for the Cellular Core, 2018-present, [GitHub](https://github.com/stevenplatt/spectrum-protocol)
-* Application Layer Modeling in Vehicle Networks, 2017-2018, [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
+* Blockchain as Virtual Network Function for the Cellular Core, 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
+* Application Layer Modeling in Vehicle Networks, 2017-2018 - [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
 
 ### Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
@@ -54,7 +54,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ---
 ### Conferences and Talks
 * UBM, Enterprise Connect 2017, *"SIP Trunking Best Practices"*
-* Twilio, Signal 2016, *"Enterprise SIP Trunking"*, [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
+* Twilio, Signal 2016, *"Enterprise SIP Trunking"* - [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ### Certificates
 
