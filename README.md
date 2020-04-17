@@ -65,8 +65,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ---
 ## Community Involvement
-* San Francisco Freeswitch Users Group, *Organizer*, 2016-2017
 * Southern Illinois University at Carbondale, College of Applied Sciences, *Alumni Advisory Board*, 2007-current
+* San Francisco Freeswitch Users Group, *Organizer*, 2016-2017
 
 ## Languages
 * English, *native*
