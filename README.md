@@ -51,6 +51,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ---
 ### Conferences and Workshops
+* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 
 ### Certificates
