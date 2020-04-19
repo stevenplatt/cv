@@ -33,7 +33,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * High availability support for enterprise Datacenter, LAN, WAN, Wireless, Firewall, VPN, and Load Balancer network systems.
 
 ### Caterpillar Inc
-**IT Analyst II**, Peoria, US, 2007-2012
+**Information Technology Analyst II**, Peoria, US, 2007-2012
 
 ---
 ## Research Activity
@@ -58,8 +58,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Computer Architecture, *Online Course Offered by Princeton University*
 
 ### Technical Skills
-* Research: 802.11x, 802.15.x, LTE, 5G NR, 3GPP, Network Localization, Stochastic Geometry, Signal Processing, Network Consensus
-* Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
+* Research: 802.11x, 802.15.x, LTE, 5G NR, 3GPP, Signal Processing, Network Consensus
+* Applied: Python, C/C++, Solidity, Java, Atoll, Matlab, WinIQSIM, 4nec2, SIP, ISDN,
 
 ---
 ### Community Involvement
