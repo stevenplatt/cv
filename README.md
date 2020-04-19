@@ -62,14 +62,14 @@ shifts across North America, Europe, and Asia.
 * Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present
 * Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
-## Awards and Fellowships
-* *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
-* *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
-
 ## Conferences and Workshops
 * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
+
+## Awards and Fellowships
+* *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
+* *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ## Certificates
 * Computer Architecture, *Online Course Offered by Princeton University - pending*
