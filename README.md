@@ -51,7 +51,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ---
 ### Conferences and Workshops
-* New RAN TEchniques for 5G UltrA-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
+* New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 
 ### Certificates
 * Computer Architecture, *Online Course Offered by Princeton University*
