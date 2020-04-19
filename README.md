@@ -40,14 +40,13 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019
 
 ### Research Projects
-* Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
-* Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018 - [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
+* Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. [GitHub](https://github.com/stevenplatt/spectrum-protocol)
+* Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
 
 ### Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
----
 ### Conferences and Workshops
 * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
@@ -56,12 +55,13 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ### Certificates
 * Computer Architecture, *Online Course Offered by Princeton University - pending*
 
+---
+
 ### Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
 * Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing, VSimRTI
 * Beginner: Java, WinIQSIM, 4nec2
 
----
 ### Community Involvement
 * IEEE, *Communications Society*, 2017-present
 * Southern Illinois University at Carbondale, College of Applied Sciences, *Alumni Advisory Board*, 2007-present
