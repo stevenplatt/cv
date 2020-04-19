@@ -58,8 +58,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Certificates
 * Computer Architecture, *Online Course Offered by Princeton University*
-* Analysis of Algorithms, *Online Course Offered by Princeton University*
-* Digital Signal processing, *Online Course Offered by École Polytechnique Fédérale de Lausanne*
 
 ### Technical Skills
 * Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stochastic Geometry, Signal Processing, Network Consensus
