@@ -1,6 +1,8 @@
 # Steven Platt
 Network Researcher
 
+Member: IEEE, Delta Sigma Phi
+
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
 ## Education
@@ -76,12 +78,6 @@ shifts across North America, Europe, and Asia.
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
 * Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing, VSimRTI
 * Beginner: Java, WinIQSIM, 4nec2
-
-## Community Involvement
-* IEEE, *Communications Society*, 2017-present
-* Southern Illinois University at Carbondale, College of Applied Sciences, *Alumni Advisory Board*, 2007-present
-* Delta Sigma Phi, *Member*, 2005-present
-* San Francisco Freeswitch Users Group, *Organizer*, 2016-2017
 
 ## Languages
 * English, *native*
