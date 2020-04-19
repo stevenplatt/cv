@@ -21,11 +21,10 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 #### Twitter.com
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
+* Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds.
 * Designed global SIP VoIP network that will reduce Twitter's phone network costs globally 72%, reduce delivery time from 12 weeks to 2, and allow full remote deployment in 41 countries.
 * Completed Cisco, Juniper, and ShoreTel network deployments in Australia, Brazil, France, Ireland, India, Singapore, United Kingdom, and the United States.
 * Scaled company phone system from 2 vendor installations, to 23 locations on 5 continents.
-* Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds.
-
 
 #### Salesforce.com
 **Network Engineer**, San Francisco, US, 2012-2014
@@ -50,7 +49,7 @@ Singapore, Australia, and China.
 and Thailand.
 * Managed rollout of “follow-the-sun” support model for phone network support, utilizing 3
 shifts across North America, Europe, and Asia.
-* Managed Global Deployment of Cisco Voice Network Monitoring providing coverage for
+* Designed and deployed Cisco Voice-Over-IP network monitoring providing coverage for
 60,000 IP phones globally.
 
 ## Publications
