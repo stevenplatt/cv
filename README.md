@@ -42,7 +42,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019
 
 ### Research Projects
-* Federated Byzantine Agreement at the 5G Core. Consensus constructed in Python. 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
+* Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
 * Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018 - [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
 
 ### Awards and Fellowships
