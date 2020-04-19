@@ -9,13 +9,14 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
----
 ## Work Experience
 #### Pompeu Fabra University
 **Research Fellow**, Barcelona, Spain, 2018-current
 
 * Led recitations for or taught the following courses: Radio Communications, Networks, Blockchain Technologies
-* Research: Blockchain for decentralized coordination in wireless networks.
+* Constructed a theoretical framework for the integration of distributed ledger technologies and Radio Frequency interfaces, through an extension of the Open Systems Interconnect (OSI) model. A paper on this work is listed in the publications section.  
+* Constructed a functional prototype of decentralized network access control using a custom-built "longest chain" consensus algorithm implemented in Python. A paper on this work is listed in the publications section.
+* Constructed and modeled an autonomous merge algorithm for vehicle networks utilizing network localization, implementating them in Java using the VSimRTI network simulator simulator. 
 
 #### Twitter.com
 **Systems Engineer II**, San Francisco, US, 2014-2017
@@ -38,8 +39,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019
 
 ## Research Projects
-* Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. [GitHub](https://github.com/stevenplatt/spectrum-protocol)
-* Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
+* Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present
+* Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
