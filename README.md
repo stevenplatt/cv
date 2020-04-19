@@ -50,9 +50,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ---
-### Conferences and Talks
-* UBM Enterprise Connect, *"SIP Trunking Best Practices"*, 2017
-* Twilio Signal Conference, *"Enterprise SIP Trunking"*, 2016 - [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
+### Conferences and Workshops
+* New RAN TEchniques for 5G UltrA-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 
 ### Certificates
 * Computer Architecture, *Online Course Offered by Princeton University*
