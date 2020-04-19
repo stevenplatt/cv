@@ -51,15 +51,15 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ---
 ### Conferences and Talks
-* UBM, Enterprise Connect 2017, *"SIP Trunking Best Practices"*
-* Twilio, Signal 2016, *"Enterprise SIP Trunking"* - [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
+* UBM Enterprise Connect, *"SIP Trunking Best Practices"*, 2017
+* Twilio Signal Conference, *"Enterprise SIP Trunking"*, 2016 - [Video](https://www.youtube.com/watch?v=lFzqYgF2MPQ&feature=emb_logo)
 
 ### Certificates
 * Computer Architecture, *Online Course Offered by Princeton University*
 
 ### Technical Skills
-* Advanced: 802.x, LTE, 5G NR, 3GPP, Network Consensus, SIP, ISDN,
-* Intermediate: Python, C/C++, Solidity, Matlab, Atoll, Signal Processing
+* Advanced: 802.x, LTE, Network Consensus, SIP, ISDN,
+* Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing
 * Beginner: Java, WinIQSIM, 4nec2
 
 ---
