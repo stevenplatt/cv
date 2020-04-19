@@ -59,7 +59,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Technical Skills
 * Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stochastic Geometry, Signal Processing, Network Consensus
-* Applied: Python, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
+* Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
 
 ---
 ### Community Involvement
