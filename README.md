@@ -41,8 +41,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019
 
-### Patents
-
 ### Research Projects
 * Blockchain as Virtual Network Function for the Cellular Core, 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
 * Application Layer Modeling in Vehicle Networks, 2017-2018 - [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
