@@ -23,12 +23,17 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 * Designed global SIP VoIP network that will reduce Twitter's phone network costs globally 72%, reduce delivery time from 12 weeks to 2, and allow full remote deployment in 41 countries.
 * Completed Cisco, Juniper, and ShoreTel network deployments in Australia, Brazil, France, Ireland, India, Singapore, United Kingdom, and the United States.
+* Scaled company phone system from 2 vendor installations, to 23 locations on 5 continents.
+* Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds.
 
 
 #### Salesforce.com
 **Network Engineer**, San Francisco, US, 2012-2014
 
+* Coordinated with real-estate business unit and stakeholders to design and spec network requirements for newly
+deployed and acquisition facilities globally.
 * Principle deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
+* Domain owner for VoIP, Wireless, and Unified Communications operations. Managed and delivered training to the Global Network Operations Center for Voice product support.
 * High availability support for enterprise Datacenter, LAN, WAN, Wireless, Firewall, VPN, and Load Balancer network systems.
 
 #### Caterpillar Inc
