@@ -14,9 +14,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ### Pompeu Fabra University
 **Research Fellow**, Barcelona, Spain, 2018-current
 
-* Teaching: Networks [Year 1]
-* Teaching: Blockchain Technologies [Year 3]
-* Teaching: Radio Communications [Year 3]
+* Led recitations for or taught the following courses: Radio Communications, Networks, Blockchain Technologies
 * Research: Blockchain for decentralized coordination in wireless networks.
 
 ### Twitter.com
@@ -56,7 +54,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 
 ### Certificates
-* Computer Architecture, *Online Course Offered by Princeton University*
+* Computer Architecture, *Online Course Offered by Princeton University - pending*
 
 ### Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
