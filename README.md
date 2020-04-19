@@ -58,7 +58,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Computer Architecture, *Online Course Offered by Princeton University*
 
 ### Technical Skills
-* Research: 802.11x, 802.15.x, LTE, 5G NR, Network Localization, Stochastic Geometry, Signal Processing, Network Consensus
+* Research: 802.11x, 802.15.x, LTE, 5G NR, 3GPP, Network Localization, Stochastic Geometry, Signal Processing, Network Consensus
 * Applied: Python, C/C++, Java, Atoll, Matlab, WinIQSIM, 4nec2, LaTex, Linux, SIP, ISDN, Freeswitch, WebRTC
 
 ---
