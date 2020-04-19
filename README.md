@@ -16,7 +16,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Led recitations for or taught the following courses: Radio Communications, Networks, Blockchain Technologies
 * Constructed a theoretical framework for the integration of distributed ledger technologies and Radio Frequency interfaces, through an extension of the Open Systems Interconnect (OSI) model. A paper on this work is listed in the publications section.  
 * Constructed a functional prototype of decentralized network access control using a custom-built "longest chain" consensus algorithm implemented in Python. A paper on this work is listed in the publications section.
-* Constructed and modeled an autonomous merge algorithm for vehicle networks utilizing network localization, implementating them in Java using the VSimRTI network simulator simulator. 
+* Constructed and modeled an autonomous merge algorithm for vehicle networks utilizing network localization, implementating them in Java using the VSimRTI network simulator. 
 
 #### Twitter.com
 **Systems Engineer II**, San Francisco, US, 2014-2017
@@ -33,6 +33,20 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 #### Caterpillar Inc
 **Information Technology Analyst II**, Peoria, US, 2007-2012
+
+* Completed service and platform design for satellite connected “field view” streaming video
+services and managed service rollout to facilities in Canada, Czech Republic, and the United
+States.
+* Managed service design and coordinated launch of single-user “desktop video” calling
+services to allow video-calling functions for 60,000 IP Phones globally.
+* Installed Cisco Telepresence HD video conferencing service to facilities in the United States,
+Singapore, Australia, and China.
+* Deployment engineer, installed IP Phone networks to facilities in the United States, China,
+and Thailand.
+* Managed rollout of “follow-the-sun” support model for phone network support, utilizing 3
+shifts across North America, Europe, and Asia.
+* Managed Global Deployment of Cisco Voice Network Monitoring providing coverage for
+60,000 IP phones globally.
 
 ## Publications
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019
