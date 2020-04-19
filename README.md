@@ -42,8 +42,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019
 
 ### Research Projects
-* Blockchain as Virtual Network Function for the Cellular Core, 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
-* Application Layer Modeling in Vehicle Networks, 2017-2018 - [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
+* Blockchain as Virtual Network Function for the Cellular Core. Consensus Model constructed in Python. 2018-present - [GitHub](https://github.com/stevenplatt/spectrum-protocol)
+* Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018 - [GitHub](https://github.com/stevenplatt/vsimrti-scenarios)
 
 ### Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
@@ -58,8 +58,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Computer Architecture, *Online Course Offered by Princeton University*
 
 ### Technical Skills
-* Advanced: 802.x, LTE, Network Consensus, SIP, ISDN,
-* Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing
+* Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
+* Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing, VSimRTI
 * Beginner: Java, WinIQSIM, 4nec2
 
 ---
