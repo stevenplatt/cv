@@ -60,6 +60,7 @@ shifts across North America, Europe, and Asia.
 
 ## Research Projects
 * Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present
+* Voice Assistant Call Route Optimization using Erlang and Freeswitch. 2017-2018
 * Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
