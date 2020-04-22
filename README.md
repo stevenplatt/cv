@@ -79,8 +79,8 @@ shifts across North America, Europe, and Asia.
 
 ## Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
-* Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing, VSimRTI
-* Beginner: Java, WinIQSIM, 4nec2
+* Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing
+* Beginner: Java, WinIQSIM, 4nec2, LabView, MultiSIM
 
 ## Languages
 * English, *native*
