@@ -23,10 +23,9 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 #### Twitter.com
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
-* Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds.
+* Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds. Scaled company phone system from 2 vendor installations, to 23 locations on 5 continents.
 * Designed global SIP VoIP network that will reduce Twitter's phone network costs globally 72%, reduce delivery time from 12 weeks to 2, and allow full remote deployment in 41 countries.
 * Completed Cisco, Juniper, and ShoreTel network deployments in Australia, Brazil, France, Ireland, India, Singapore, United Kingdom, and the United States.
-* Scaled company phone system from 2 vendor installations, to 23 locations on 5 continents.
 
 #### Salesforce.com
 **Network Engineer**, San Francisco, US, 2012-2014
@@ -64,9 +63,12 @@ shifts across North America, Europe, and Asia.
 * Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
-* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020
-* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
+* ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *-pending*
+* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020 *-pending*
+* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *-pending*
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
+* IEEE GLOBECOM 2019 Workshop on Blockchain in Telecommunications: Emerging Technologies for the Next Decade and Beyond, Hawaii, US, 2019
+* IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
 
 ## Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
