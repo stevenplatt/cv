@@ -1,7 +1,7 @@
 # Steven Platt
 Network Researcher
 
-Member: IEEE, Delta Sigma Phi
+Member: ACM, IEEE, Delta Sigma Phi
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
@@ -63,11 +63,11 @@ shifts across North America, Europe, and Asia.
 * Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
-* ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *-pending*
-* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020 *-pending*
-* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *-pending*
+* ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
+* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020 *- pending*
+* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending*
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
-* IEEE GLOBECOM 2019 Workshop on Blockchain in Telecommunications: Emerging Technologies for the Next Decade and Beyond, Hawaii, US, 2019
+* IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
 
 ## Awards and Fellowships
