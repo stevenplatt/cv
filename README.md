@@ -64,8 +64,8 @@ shifts across North America, Europe, and Asia.
 
 ## Conferences and Workshops
 * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
-* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, London, United Kingdom, 2020 *- pending*
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending*
+* International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2019
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
