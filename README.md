@@ -14,6 +14,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ## Work Experience
 #### Pompeu Fabra University
 *Higher Education and Research*
+
 **Research Fellow**, Barcelona, Spain, 2018-current
 
 * Led recitations for or taught the following courses: Radio Communications, Networks, Blockchain Technologies
@@ -23,6 +24,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 #### Twitter.com
 *Social Media and Internet*
+
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
 * Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds. Scaled company phone system from 2 vendor installations, to 23 locations on 5 continents.
@@ -31,31 +33,23 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 #### Salesforce.com
 *Cloud Computing*
+
 **Network Engineer**, San Francisco, US, 2012-2014
 
 * Coordinated with real-estate business unit and stakeholders to design and spec network requirements for newly
-deployed and acquisition facilities globally.
-* Principle deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
+deployed and acquisition facilities globally, including network link sizing and hardware configurations.  
+* Principle network deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
 * Domain owner for VoIP, Wireless, and Unified Communications operations. Managed and delivered training to the Global Network Operations Center for Voice product support.
-* High availability support for enterprise Datacenter, LAN, WAN, Wireless, Firewall, VPN, and Load Balancer network systems.
+* High availability support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
 
 #### Caterpillar Inc
 *Heavy Industry and Manufacturing*
+
 **Information Technology Analyst II**, Peoria, US, 2007-2012
 
-* Completed service and platform design for satellite connected “field view” streaming video
-services and managed service rollout to facilities in Canada, Czech Republic, and the United
-States.
-* Managed service design and coordinated launch of single-user “desktop video” calling
-services to allow video-calling functions for 60,000 IP Phones globally.
-* Installed Cisco Telepresence HD video conferencing service to facilities in the United States,
-Singapore, Australia, and China.
-* Deployment engineer, installed IP Phone networks to facilities in the United States, China,
-and Thailand.
-* Managed rollout of “follow-the-sun” support model for phone network support, utilizing 3
-shifts across North America, Europe, and Asia.
-* Designed and deployed Cisco Voice-Over-IP network monitoring providing coverage for
-60,000 IP phones globally.
+* Completed service and platform design for new satellite connected “field view” product support. Service utilized Librestream industrial cameras, Inmartsat connectivity, and Tandberg Cisco network gateways to allow screen sharing, live video markup, and remote support of Caterpillar industrial machines. Pilot services deployed to facilities in Canada, Czech Republic, and the United States.
+* Created and managed “follow-the-sun” support team for phone network totalling 60,000 phone and video terminals across 50 countries, utilizing 3 teams at facilities in Belgium, Singapore, and the United States.
+* Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
 ## Publications
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019
