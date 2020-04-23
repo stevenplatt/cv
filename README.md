@@ -80,7 +80,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 ## Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
 * Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing
-* Beginner: Java, WinIQSIM, 4nec2, LabView, MultiSIM
+* Beginner: Java, WinIQSIM, 4nec2
 
 ## Languages
 * English, *native*
