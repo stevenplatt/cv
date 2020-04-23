@@ -13,6 +13,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ## Work Experience
 #### Pompeu Fabra University
+*Higher Education and Research*
 **Research Fellow**, Barcelona, Spain, 2018-current
 
 * Led recitations for or taught the following courses: Radio Communications, Networks, Blockchain Technologies
@@ -21,6 +22,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Constructed and modeled an autonomous merge algorithm for vehicle networks utilizing network localization, implementating them in Java using the VSimRTI network simulator. 
 
 #### Twitter.com
+*Social Media and Internet*
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
 * Hired to scale company phone system, and deploy IT infrastructure (IaaS) at global office builds. Scaled company phone system from 2 vendor installations, to 23 locations on 5 continents.
@@ -28,6 +30,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Completed Cisco, Juniper, and ShoreTel network deployments in Australia, Brazil, France, Ireland, India, Singapore, United Kingdom, and the United States.
 
 #### Salesforce.com
+*Cloud Computing*
 **Network Engineer**, San Francisco, US, 2012-2014
 
 * Coordinated with real-estate business unit and stakeholders to design and spec network requirements for newly
@@ -37,6 +40,7 @@ deployed and acquisition facilities globally.
 * High availability support for enterprise Datacenter, LAN, WAN, Wireless, Firewall, VPN, and Load Balancer network systems.
 
 #### Caterpillar Inc
+*Heavy Industry and Manufacturing*
 **Information Technology Analyst II**, Peoria, US, 2007-2012
 
 * Completed service and platform design for satellite connected “field view” streaming video
@@ -65,7 +69,7 @@ shifts across North America, Europe, and Asia.
 ## Conferences and Workshops
 * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending*
-* International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2019
+* International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
