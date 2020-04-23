@@ -67,6 +67,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
+* Hyperledger Global Forum, Basel, Switzerland, 2018
 
 ## Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
