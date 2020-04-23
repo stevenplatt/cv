@@ -61,8 +61,8 @@ deployed and acquisition facilities globally, including network link sizing and 
 * Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
-* ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
-* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending*
+<!--- * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
+* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending* --->
 * International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
@@ -72,8 +72,9 @@ deployed and acquisition facilities globally, including network link sizing and 
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
-## Certificates
-* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom - pending*
+<!--- ## Certificates
+* Computer Architecture, *Online Cource Offered by Princeton University - pending*
+* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom - pending* --->
 
 ## Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
