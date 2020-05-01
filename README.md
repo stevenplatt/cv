@@ -63,7 +63,8 @@ deployed and acquisition facilities globally, including network link sizing and 
 ## Conferences and Workshops
 <!--- * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending* --->
-* International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
+* 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, 2020
+* ACM International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
