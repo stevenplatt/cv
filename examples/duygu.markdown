@@ -10,11 +10,12 @@ Specialized in Electromagnetism
 * 2004–2008 B.Sc. in Mathematical Engineering (with a minor in Engineering Physics), Istanbul
 Technical University, Turkey .
 
-## Working Experience
-### 2020-present 
+## Working Experience 
 ### Information Technology Business Analyst (Part-time), Nisan Design Group, LLC, San Francisco, CA, USA.
-### 2017-2020 
+#### 2020-present
+
 ### Postdoctoral Researcher, International Computer Science Institute, Berkeley, CA, USA.
+#### 2017-2020 
 * Constructed a theoretical framework for the interoperability of distinct CAD systems using
 tools from algebraic topology and analysis, and built an automated system that tests for the
 interoperability of Rhinoceros and OpenCASCADE (Funded by DARPA). Papers on this work are
@@ -23,11 +24,13 @@ listed in the publications section.
 and recommended improvements on test classifications and threshold definitions to NIST.
 * Reviewed the 3D model validation tests provided in the military standards 31000A. A technical
 report on this work is listed in the publications section.
-### 2011–2017 
+
 ### Graduate Teaching Fellow, University of Pittsburgh, PA, USA.
+#### 2011–2017 
 * Led recitations for or taught the following courses: Analytic Geometry and Calculus (I,II,III), Business Calculus, Introduction to Analysis
-### 2009–2011 
+
 ### Research and Teaching Assistant, Istanbul Technical University, Turkey.
+#### 2009–2011 
 * Constructed MRI-based breast models for use in the breast cancer research carried out at microwave
 frequencies by utilizing several image processing tools such as smoothing and edge detection
 filters, and Gaussian mixture models
@@ -35,13 +38,15 @@ filters, and Gaussian mixture models
 niques to investigate the electrical property variations in breast tissues.
 * Led recitations for the following courses: Introduction to Electromagnetic Fields, Microwave
 Engineering, Linear Algebra and Applications, Probability and Statistics.
-### 2007 
+ 
 ### Automation Software Engineer (Summer Intern), EST Enerji, Istanbul, Turkey.
+#### 2007
 * Constructed SCADA (Supervisory Control And Data Acquisition) system windows.
 * Learned how to use the InTouch HMI Software.
 * Acquired an online certificate of Siemens on PLCs.
-### 2006 
+
 ### Research Scientist (Summer Intern), Istanbul Technical University, Turkey.
+#### 2006 
 * Constructed mathematical models based on regression and FFT in Matlab predicting the period
 of the sunspot cycle.
 * Presented the results of the research under the name "Time series analysis applied to Ionospheric
