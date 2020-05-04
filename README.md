@@ -55,7 +55,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
-* *"Predicting locale suitability and performance within technology supply chain operations"*. S Platt. MBA thesis, Illinois State University, Normal, US. 2013.
+* *"Predicting locale suitability and performance within technology supply chain operations"*. S Platt. MBA thesis, College of Business, Illinois State University, Normal, US. 2013.
 
 ## Research Projects
 * Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present
