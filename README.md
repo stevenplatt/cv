@@ -52,13 +52,15 @@ deployed and acquisition facilities globally, including network link sizing and 
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
 ## Publications
-* *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019
-* *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019
+* *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
+* *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
+* *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
+* *"Predicting locale suitability and performance within technology supply chain operations"*. S Platt. MBA thesis, Illinois State University, Normal, US. 2013.
 
 ## Research Projects
 * Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present
 * Voice Assistant Call Route Optimization using Erlang and Freeswitch. 2017-2018
-* Application Layer Modeling in Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
+* Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
 <!--- * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
