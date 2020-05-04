@@ -12,10 +12,10 @@ Technical University, Turkey .
 
 ## Working Experience 
 ### Information Technology Business Analyst (Part-time), Nisan Design Group, LLC, San Francisco, CA, USA.
-#### 2020-present
+*2020-present*
 
 ### Postdoctoral Researcher, International Computer Science Institute, Berkeley, CA, USA.
-#### 2017-2020 
+*2017-2020* 
 * Constructed a theoretical framework for the interoperability of distinct CAD systems using
 tools from algebraic topology and analysis, and built an automated system that tests for the
 interoperability of Rhinoceros and OpenCASCADE (Funded by DARPA). Papers on this work are
@@ -26,11 +26,11 @@ and recommended improvements on test classifications and threshold definitions t
 report on this work is listed in the publications section.
 
 ### Graduate Teaching Fellow, University of Pittsburgh, PA, USA.
-#### 2011–2017 
+*2011–2017* 
 * Led recitations for or taught the following courses: Analytic Geometry and Calculus (I,II,III), Business Calculus, Introduction to Analysis
 
 ### Research and Teaching Assistant, Istanbul Technical University, Turkey.
-#### 2009–2011 
+*2009–2011* 
 * Constructed MRI-based breast models for use in the breast cancer research carried out at microwave
 frequencies by utilizing several image processing tools such as smoothing and edge detection
 filters, and Gaussian mixture models
@@ -40,13 +40,13 @@ niques to investigate the electrical property variations in breast tissues.
 Engineering, Linear Algebra and Applications, Probability and Statistics.
  
 ### Automation Software Engineer (Summer Intern), EST Enerji, Istanbul, Turkey.
-#### 2007
+*2007*
 * Constructed SCADA (Supervisory Control And Data Acquisition) system windows.
 * Learned how to use the InTouch HMI Software.
 * Acquired an online certificate of Siemens on PLCs.
 
 ### Research Scientist (Summer Intern), Istanbul Technical University, Turkey.
-#### 2006 
+*2006* 
 * Constructed mathematical models based on regression and FFT in Matlab predicting the period
 of the sunspot cycle.
 * Presented the results of the research under the name "Time series analysis applied to Ionospheric
