@@ -78,7 +78,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 
 ## Certificates
 <!--- * Computer Architecture, *Online Cource Offered by Princeton University - pending* --->
-* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom - pending*
+* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom*
 
 ## Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
