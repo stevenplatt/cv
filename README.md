@@ -58,7 +58,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 * *"Predicting locale suitability and performance within technology supply chain operations"*. S Platt. MBA thesis, College of Business, Illinois State University, Normal, US. 2013.
 
 ## Research Projects
-* Federated Byzantine Agreement for 5G Core Networks. Consensus constructed in Python. 2018-present
+* Temporal Federated Byzantine Agreement Blockchain for 5G Core Networks. Consensus constructed in Python. 2018-present
 * Voice Assistant Call Route Optimization using Erlang and Freeswitch. 2017-2018
 * Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
