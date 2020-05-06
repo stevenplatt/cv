@@ -76,9 +76,9 @@ deployed and acquisition facilities globally, including network link sizing and 
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
-<!--- ## Certificates
-* Computer Architecture, *Online Cource Offered by Princeton University - pending*
-* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom - pending* --->
+## Certificates
+<!--- * Computer Architecture, *Online Cource Offered by Princeton University - pending* --->
+* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom - pending*
 
 ## Technical Skills
 * Advanced: 802.x, LTE, Consensus Algorithms, SIP, ISDN,
