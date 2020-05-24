@@ -65,6 +65,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 ## Conferences and Workshops
 <!--- * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending* --->
+* IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom), Odesa, Ukraine, 2020
 * 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, 2020
 * ACM International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
@@ -77,13 +78,13 @@ deployed and acquisition facilities globally, including network link sizing and 
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ## Certificates
-<!--- * Computer Architecture, *Online Cource Offered by Princeton University - pending* --->
+* Programming with Maltab, *Online Course Offered by Vanderbilt University*
 * Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom*
 
 ## Technical Skills
-* Advanced: 802.x, LTE, Consensus Algorithms, Blockchain, SIP, ISDN,
-* Intermediate: Python, C/C++, 5G NR, Matlab, Atoll, Signal Processing
-* Beginner: Java, WinIQSIM, 4nec2, LabVIEW
+* Advanced: Consensus Algorithms, Blockchain, SIP, ISDN,
+* Intermediate: Python, C/C++, Matlab, Atoll, 802.x, LTE, 5G NR
+* Beginner: Java, WinIQSIM, 4nec2
 
 ## Languages
 * English, *native*
