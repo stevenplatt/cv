@@ -11,17 +11,11 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
-## Research Experience
-### Publications
+## Research Publications
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
 * *"Predicting locale suitability and performance within technology supply chain operations"*. S Platt. MBA thesis, College of Business, Illinois State University, Normal, US. 2013.
-
-### Research Projects
-* Temporal Federated Byzantine Agreement Blockchain for 5G Core Networks. Consensus constructed in Python. 2018-present
-* Voice Assistant Call Route Optimization using Erlang and Freeswitch. 2017-2018
-* Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Work Experience
 #### Pompeu Fabra University
@@ -62,6 +56,11 @@ deployed and acquisition facilities globally, including network link sizing and 
 * Completed service and platform design for new satellite connected “field view” product support. Service utilized Librestream industrial cameras, Inmartsat connectivity, and Tandberg Cisco network gateways to allow screen sharing, live video markup, and remote support of Caterpillar industrial machines. Pilot services deployed to facilities in Canada, Czech Republic, and the United States.
 * Created and managed “follow-the-sun” support team for phone network totalling 60,000 phone and video terminals across 50 countries, utilizing 3 teams at facilities in Belgium, Singapore, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
+
+## Research Projects
+* Temporal Federated Byzantine Agreement Blockchain for 5G Core Networks. Consensus constructed in Python. 2018-present
+* Voice Assistant Call Route Optimization using Erlang and Freeswitch. 2017-2018
+* Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
 <!--- * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
