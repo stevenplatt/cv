@@ -11,7 +11,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
-### Publications
+## Research Publications
 * *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, Luis Sanabria-Russo. (Preprint)
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
