@@ -24,7 +24,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 **Research Fellow**, Barcelona, Spain, 2018-current
 
-* Led recitations for or taught the following courses: Radio Communications, Networks, Blockchain Technologies
+* Led lecture and/orlab sections for the following courses: Radio Communications, Networks, Blockchain Technologies
 * Constructed a theoretical framework for the integration of distributed ledger technologies and Radio Frequency interfaces, through an extension of the Open Systems Interconnect (OSI) model. A paper on this work is listed in the publications section.  
 * Constructed a functional prototype of decentralized network access control using a custom-built "longest chain" consensus algorithm implemented in Python. A paper on this work is listed in the publications section.
 * Constructed and modeled an autonomous merge algorithm for vehicle networks utilizing network localization, implementating them in Java using the VSimRTI network simulator. 
