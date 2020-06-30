@@ -84,8 +84,8 @@ deployed and acquisition facilities globally, including network link sizing and 
 
 ## Technical Skills
 * Advanced: Consensus Algorithms, Blockchain, SIP, ISDN, Routing Protocols
-* Intermediate: Python, C/C++, Matlab, Atoll, 802.x, LTE, 5G NR, MPLS, ISDN
-* Beginner: Java, WinIQSIM, 4nec2
+* Intermediate: Python, Matlab, 802.x, LTE, 5G NR, MPLS, ISDN, TCP/IP
+* Beginner: Java, WinIQSIM, 4nec2, C/C++, Atoll
 
 ## Languages
 * English, *native*
