@@ -43,8 +43,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 **Network Engineer**, San Francisco, US, 2012-2014
 
-* Coordinated with real-estate business unit and stakeholders to design and spec network requirements for newly
-deployed and acquisition facilities globally, including network link sizing and hardware configurations.  
+* Coordinated with real-estate business unit and stakeholders to set IDF and MDF requirements at newly
+deployed and acquisition facilities globally, including network link sizing, cooling capacity, power capacity, as well as MDF and IDF rack layout.  
 * Principle network deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
 * Domain owner for VoIP, Wireless, and Unified Communications operations. Managed and delivered training to the Global Network Operations Center for Voice product support.
 * High availability support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
@@ -64,8 +64,7 @@ deployed and acquisition facilities globally, including network link sizing and 
 * Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
-<!--- * ACM Mobihoc: International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing, Shanghai, China *- pending*
-* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020 *- pending* --->
+* Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
 * IEEE International Conference on Communications, Dublin, Ireland, 2020
 * 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, 2020
 * ACM International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
