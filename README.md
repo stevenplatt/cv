@@ -12,7 +12,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ## Research Publications
-* *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, Luis Sanabria-Russo, Miquel Oliver. Sensors 2020, 20, 5281.
+* *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, L Sanabria-Russo, M Oliver. Sensors 2020, 20, 5281.
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
@@ -59,8 +59,8 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
 ## Research Projects
+* Branch Prediction for Client-side Predictive Mobility in Ad-hoc Multi-RAN 5G. 2020-present
 * Temporal Federated Byzantine Agreement Blockchain for 5G Core Networks. Consensus constructed in Python. 2018-present
-* Voice Assistant Call Route Optimization using Erlang and Freeswitch. 2017-2018
 * Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
 
 ## Conferences and Workshops
