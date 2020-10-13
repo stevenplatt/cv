@@ -6,7 +6,7 @@ Member: ACM, IEEE, Delta Sigma Phi
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
 ## Education
-* *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*June, 2021*
+* *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018 - *June, 2021*
 * *M.S. Wireless Communications*, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
 * *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
