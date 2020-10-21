@@ -89,7 +89,7 @@ deployed and acquisition facilities globally, including network link sizing, coo
 ## Community Involvement
 #### IEEE Standards Association
 * **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
-* **Voting Memeber**, P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
+* **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
 #### Southern Illinois University at Carbondale
 * **Member of the Board of Advisors**, Electronic Systems Technology Diploma, 2010-present
 
