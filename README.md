@@ -9,7 +9,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*2021 (July)*
 * *M.S. Wireless Communications*, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
-* *B.S. Electronic Systems Engineering*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
+* *B.S. Electronic Systems Technology*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ## Research Publications
 * *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, L Sanabria-Russo, M Oliver. Sensors 2020, 20, 5281.
@@ -85,6 +85,13 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Advanced: Consensus Algorithms, Blockchain, SIP, ISDN, Routing Protocols
 * Intermediate: Python, Matlab, 802.x, LTE, 5G NR, MPLS, ISDN, TCP/IP
 * Beginner: Java, WinIQSIM, 4nec2, C/C++, Atoll
+
+## Community Involvement
+#### IEEE Standards Association
+**Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
+**Voting Memeber**, P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
+#### Southern Illinois University at Carbondale
+**Member of the Board of Advisors**, Electronic Systems Technology Diploma, 2010-present
 
 ## Languages
 * English, *native*
