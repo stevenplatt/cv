@@ -46,7 +46,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Coordinated with real-estate business unit and stakeholders to set IDF and MDF requirements at newly
 deployed and acquisition facilities globally, including network link sizing, cooling capacity, power capacity, as well as MDF and IDF rack layouts.  
 * Principle network deployment engineer; completed network installations to facilities in the United States, United Kingdom and Australia.
-* Domain owner for VoIP, Wireless, and Unified Communications operations. Managed and delivered training to the Global Network Operations Center for Voice product support.
 * High availability support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
 
 #### Caterpillar Inc
