@@ -58,11 +58,6 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Created and managed “follow-the-sun” support team for phone network totalling 60,000 phone and video terminals across 50 countries, utilizing 3 teams at facilities in Belgium, Singapore, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
-## Research Projects
-* Branch Prediction for Client-side Predictive Mobility in Ad-hoc Multi-RAN 5G. 2020-present
-* Temporal Federated Byzantine Agreement Blockchain for 5G Core Networks. Consensus constructed in Python. 2018-present
-* Network-assisted Autonomous Merge Algorithm for Vehicle Networks. Model constructed in Java using VSimRTI. 2017-2018
-
 ## Conferences and Workshops
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
 * IEEE International Conference on Communications, Dublin, Ireland, 2020
