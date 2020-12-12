@@ -86,13 +86,10 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Intermediate: Python, Matlab, 802.x, LTE, 5G NR, MPLS, ISDN, TCP/IP
 * Beginner: Java, WinIQSIM, 4nec2, C/C++, Atoll
 
-## Community Involvement
+## Standards Development
 #### IEEE Standards Association
 * **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
 * **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
-
-#### Southern Illinois University at Carbondale
-* **Member of the Board of Advisors**, Electronic Systems Technology Diploma, 2010-present
 
 ## Languages
 * English, *native*
