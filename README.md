@@ -18,7 +18,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
 
-## Work Experience
+## Industry Experience
 #### Pompeu Fabra University
 *Higher Education and Research*
 
@@ -59,13 +59,14 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
 ## Conferences and Workshops
+* 3rd Workshop on 5G Technologies for First Responder and Tactical Networks, New York, US, 2020 **(Presenting)**
 * Symposium on High Performance Chips, Hot Chips, San jose, California, US, 2020
 * IEEE International Conference on Communications, Dublin, Ireland, 2020
 * 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain, 2020
 * ACM International Conference on Information Processing in Sensor Networks (IPSN), Sydney, Australia, 2020
 * New RAN Techniques for 5G Ultra-dense Mobile networks, Winter School, Carlos III University of Madrid, Madrid, Spain, 2019
-* IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
-* IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
+* IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019 **(Presenting)**
+* IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019 **(Presenting)**
 * Hyperledger Global Forum, Basel, Switzerland, 2018
 
 ## Awards and Fellowships
