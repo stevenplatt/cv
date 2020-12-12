@@ -78,7 +78,7 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ## Certificates
-* Programming with Maltab, *Online Course Offered by Vanderbilt University*
+* Data Visualization With Python, *Online Course Offered by IBM*
 * Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom*
 
 ## Technical Skills
