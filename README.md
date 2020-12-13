@@ -22,7 +22,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 #### Pompeu Fabra University
 *Higher Education and Research*
 
-**Research Fellow**, Barcelona, Spain, 2018-current
+**Doctoral Research Fellow**, Barcelona, Spain, 2018-current
 
 * Led lecture and/or lab sections for the following university courses: Radio Communications, Networks, Blockchain Technologies
 * Constructed a theoretical framework for the integration of distributed ledger technologies and Radio Frequency interfaces, through an extension of the Open Systems Interconnect (OSI) model. A paper on this work is listed in the publications section.  
@@ -32,7 +32,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 #### Twitter.com
 *Social Media and Internet*
 
-**Systems Engineer II**, San Francisco, US, 2014-2017
+**Systems Engineer**, San Francisco, US, 2014-2017
 
 * Scaled company SIP telecom network from 2 installations, to 23 locations on 5 continents.
 * Reduced voice carrier costs globally 72%. 
@@ -49,7 +49,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 #### Caterpillar Inc
 *Heavy Industry and Manufacturing*
 
-**Information Technology Analyst II**, Peoria, US, 2007-2012
+**Information Technology Analyst**, Peoria, US, 2007-2012
 
 * Completed platform design of new satellite connected “field view” industrial camera product with pilot deployments in Canada, Czech Republic, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
