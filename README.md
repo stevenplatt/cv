@@ -35,7 +35,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 **Systems Engineer II**, San Francisco, US, 2014-2017
 
 * Scaled company SIP telecom network from 2 installations, to 23 locations on 5 continents.
-* Reduced voice carrier costs globally 72%, reduced site delivery time from 12 weeks to 2, and enabled full remote deployment in 41 countries.
+* Reduced voice carrier costs globally 72%. 
+* Enabled full remote site deployment in 41 countries while reducing site delivery time from 12 weeks to 2.
 
 #### Salesforce.com
 *Cloud Computing*
