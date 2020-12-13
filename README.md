@@ -79,9 +79,7 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom*
 
 ## Technical Skills
-* Advanced: Consensus Algorithms, Blockchain, SIP, ISDN, Routing Protocols
-* Intermediate: Python, Matlab, 802.x, LTE, 5G NR, MPLS, ISDN, TCP/IP
-* Beginner: Java, WinIQSIM, 4nec2, C/C++, Atoll
+Consensus Algorithms, Blockchain, SIP, ISDN, Routing Protocols, Python, Matlab, 802.x, LTE, 5G NR, MPLS, ISDN, TCP/IP, C/C++
 
 ## Standards Development
 #### IEEE Standards Association
