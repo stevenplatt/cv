@@ -51,8 +51,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 **Information Technology Analyst II**, Peoria, US, 2007-2012
 
-* Completed service and platform design for new satellite connected “field view” product support. Service utilized Librestream industrial cameras, Inmartsat connectivity, and Tandberg Cisco network gateways to allow screen sharing, live video markup, and remote support of Caterpillar industrial machines. Pilot services deployed to facilities in Canada, Czech Republic, and the United States.
-* Created and managed “follow-the-sun” support team for phone network totalling 60,000 phone and video terminals across 50 countries, utilizing 3 teams at facilities in Belgium, Singapore, and the United States.
+* Completed platform design for new satellite connected “field view” industrial support camera product with pilot deployments in Canada, Czech Republic, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
 ## Conferences and Workshops
