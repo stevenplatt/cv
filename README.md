@@ -76,15 +76,15 @@ deployed and acquisition facilities globally, including network link sizing, coo
 
 ## Certificates
 * Data Visualization With Python, *Online Course Offered by IBM*
-* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom*
-
-## Technical Skills
-Python, C/C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols 
+* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom* 
 
 ## Standards Development
 #### IEEE Standards Association
 * **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
 * **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
+
+## Technical Skills
+Python, C/C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols
 
 ## Languages
 * English, *native*
