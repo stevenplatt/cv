@@ -67,6 +67,8 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019 **(Presenting)**
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019 **(Presenting)**
 * Hyperledger Global Forum, Basel, Switzerland, 2018
+* Enterprise Connect Conference, Orlando, US, 2017 **(Presenting)**
+* Twilio Signal Conference, San Francisco, US, 2016 **(Presenting)**
 
 ## Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
