@@ -70,6 +70,11 @@ deployed and acquisition facilities globally, including network link sizing, coo
 * Enterprise Connect Conference, Orlando, US, 2017 **(Presenting)**
 * Twilio Signal Conference, San Francisco, US, 2016 **(Presenting)**
 
+## Standards Development
+#### IEEE Standards Association
+* **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
+* **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
+
 ## Awards and Fellowships
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
@@ -77,11 +82,6 @@ deployed and acquisition facilities globally, including network link sizing, coo
 ## Certificates
 * Data Visualization With Python, *Online Course Offered by IBM*
 * Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom* 
-
-## Standards Development
-#### IEEE Standards Association
-* **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
-* **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
 
 ## Technical Skills
 Python, C/C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols
