@@ -51,7 +51,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 **Information Technology Analyst II**, Peoria, US, 2007-2012
 
-* Completed platform design for new satellite connected “field view” industrial support camera product with pilot deployments in Canada, Czech Republic, and the United States.
+* Completed platform design of new satellite connected “field view” industrial camera product with pilot deployments in Canada, Czech Republic, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
 ## Conferences and Workshops
