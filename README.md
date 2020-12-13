@@ -1,7 +1,5 @@
 # Steven Platt
-Network Researcher
-
-Member: ACM, IEEE, Delta Sigma Phi
+Network Researcher; Member IEEE
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
