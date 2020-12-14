@@ -78,7 +78,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom* 
 
 ## Technical Skills
-Python, C/C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols
+Python, Java, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols
 
 ## Languages
 * English, *native*
