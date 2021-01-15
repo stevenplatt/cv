@@ -10,6 +10,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *B.S. Electronic Systems Technology*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
 ## Research Publications
+* *"Review of Blockchain for Pandemic Surveillance and COVID-19 Response"*. S Platt, F Della Valle, M Oliver. *Pending*.
 * *"Enabling Blockchain Decentralized 5G Service Overlays with the ETSI GANA Model"*. S Platt, M Oliver. *Pending*.
 * *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, L Sanabria-Russo, M Oliver. Sensors 2020, 20, 5281.
 * *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
