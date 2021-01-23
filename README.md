@@ -74,10 +74,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
 * *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
-## Certificates
-* Data Visualization With Python, *Online Course Offered by IBM*
-* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom* 
-
 ## Technical Skills
 Python, Java, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols
 
