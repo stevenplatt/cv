@@ -18,34 +18,30 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
 
 ## Experience
-#### Pompeu Fabra University
-*Higher Education and Research*
+### Pompeu Fabra University
 
-**Doctoral Researcher**, Barcelona, Spain, 2018-current
+*Doctoral Researcher*, Barcelona, Spain, 2018-current
 
 * Research Focus: Congestion Control, Wireless Medium Access Control, Blockchain application in wireless networks.
 * Published research at top ranked institutions including MDPI Journal Sensors (SJR Q1), and IEEE GlobeCom.
 * Led lecture and/or lab sections for the following undergraduate courses: Radio Communications, Networks, Blockchain Technologies.
 
-#### Twitter.com
-*Social Media and Internet*
+### Twitter.com
 
-**Systems Engineer**, San Francisco, US, 2014-2017
+*Systems Engineer*, San Francisco, US, 2014-2017
 
 * Scaled company SIP telecom network from 2 installations, to 23 locations on 5 continents.
 * Reduced voice carrier costs globally 72%. 
 * Enabled full remote site deployment in 41 countries while reducing site delivery time from 12 weeks to 2.
 
-#### Salesforce.com
-*Cloud Computing*
+### Salesforce.com
 
 **Network Engineer**, San Francisco, US, 2012-2014
 
 * Principle network deployment engineer; completed network deployment for facilities in the United States, United Kingdom and Australia.
 * Global support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
 
-#### Caterpillar Inc
-*Heavy Industry and Manufacturing*
+### Caterpillar Inc
 
 **Information Technology Analyst**, Peoria, US, 2007-2012
 
