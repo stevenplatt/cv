@@ -3,6 +3,10 @@ Network Researcher; Member IEEE
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
+
+## Technical Skills
+Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols, Kubernetes, Docker
+
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*2021 (July)*
 * *M.S. Wireless Communications*, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2017-2018
@@ -63,8 +67,6 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ## Open Source Contributions
 
 
-## Technical Skills
-Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols, Kubernetes, Docker
 
 ## Languages
 * English, *native*
