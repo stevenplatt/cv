@@ -17,11 +17,11 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
 
-## Industry Experience
+## Experience
 #### Pompeu Fabra University
 *Higher Education and Research*
 
-**Research Fellow**, Barcelona, Spain, 2018-current
+**PhD Researcher**, Barcelona, Spain, 2018-current
 
 * Research Focus: Congestion Control, Wireless Medium Access Control, Blockchain application in wireless networks.
 * Published research at top ranked institutions including MDPI Journal Sensors (SJR Q1), and IEEE GlobeCom.
