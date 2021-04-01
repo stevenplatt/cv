@@ -64,13 +64,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
 * **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
 
-## Awards and Fellowships
-* *Plan Nacional Fellowship*, Pompeu Fabra University, Barcelona, Spain, 2018-present
-* *Dean's Scholarship*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
+## Open Source Contributions
 
-## Certificates
-* Data Visualization With Python, *Online Course Offered by IBM*
-* Introduction to Satellite Communications, *Online Course Offered by Institut Mines-Télécom*
 
 ## Technical Skills
 Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols, Kubernetes, Docker
