@@ -21,7 +21,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 #### Pompeu Fabra University
 *Higher Education and Research*
 
-**PhD Researcher**, Barcelona, Spain, 2018-current
+**Research Fellow**, Barcelona, Spain, 2018-current
 
 * Research Focus: Congestion Control, Wireless Medium Access Control, Blockchain application in wireless networks.
 * Published research at top ranked institutions including MDPI Journal Sensors (SJR Q1), and IEEE GlobeCom.
