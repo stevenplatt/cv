@@ -36,14 +36,14 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Salesforce.com
 
-**Network Engineer**, San Francisco, US, 2012-2014
+*Network Engineer*, San Francisco, US, 2012-2014
 
 * Principle network deployment engineer; completed network deployment for facilities in the United States, United Kingdom and Australia.
 * Global support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
 
 ### Caterpillar Inc
 
-**Information Technology Analyst**, Peoria, US, 2007-2012
+*Information Technology Analyst*, Peoria, US, 2007-2012
 
 * Completed platform design of new satellite connected “field view” industrial camera product with pilot deployments in Canada, Czech Republic, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
