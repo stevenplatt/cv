@@ -1,5 +1,5 @@
 # Steven Platt
-Network Engineer and Researcher; Member IEEE
+Network Engineer & Researcher; Member IEEE
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
@@ -55,9 +55,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
 
 ## Standards Development
-#### IEEE Standards Association
-* **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
-* **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
+* IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, *Project Lead*, 2020-present
+* IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, *Voting Memeber*, 2020-present
 
 ## Conference Talks
 * 3rd Workshop on 5G Technologies for First Responder and Tactical Networks, New York, US, 2020 
@@ -67,7 +66,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 * Twilio Signal Conference, San Francisco, US, 2016
 
 ## Open Source Contributions
-
+* Gnome, 2021
 
 ## Languages
 * English, *native*
