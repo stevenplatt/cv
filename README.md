@@ -13,14 +13,6 @@ Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockch
 * *MBA. Business Administration*, Illinois State University, Normal, US, 2009-2012
 * *B.S. Electronic Systems Technology*, Southern Illinois University at Carbondale, Carbondale, US, 2004-2007
 
-## Publications
-* *"Review of Blockchain for Pandemic Surveillance and COVID-19 Response"*. S Platt, F Della Valle, M Oliver. *Pending*.
-* *"Enabling Blockchain Decentralized 5G Service Overlays with the ETSI GANA Model"*. S Platt, M Oliver. *Pending*.
-* *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, L Sanabria-Russo, M Oliver. Sensors 2020, 20, 5281.
-* *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
-* *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
-* *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
-
 ## Experience
 ### Pompeu Fabra University
 
@@ -52,6 +44,19 @@ Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockch
 * Completed platform design of new satellite connected “field view” industrial camera product with pilot deployments in Canada, Czech Republic, and the United States.
 * Deployed Cisco IP Phone and HD Telepresence video conference networks to facilities in Australia, China, Singapore, Thailand, and the United States.
 
+## Publications
+* *"Review of Blockchain for Pandemic Surveillance and COVID-19 Response"*. S Platt, F Della Valle, M Oliver. *Pending*.
+* *"Enabling Blockchain Decentralized 5G Service Overlays with the ETSI GANA Model"*. S Platt, M Oliver. *Pending*.
+* *"CoNTe: A Core Network Temporal Blockchain for 5G"*. S Platt, L Sanabria-Russo, M Oliver. Sensors 2020, 20, 5281.
+* *"Towards Blockchain for Decentralized Self-Organizing Wireless Networks"*. S Platt, M Oliver. IEEE Globecom Workshops (GC Wkshps), 1-5, 2019.
+* *"A Distributed Ledger-Enabled Interworking Model for the Wireless Air Interface"*. S Platt, M Oliver. IEEE 5th World Forum on Internet of Things (WF-IoT), 402-407, 2019.
+* *"Application Layer Modeling in Vehicle Networks"*. S Platt. M.Sc. Thesis, Barcelona School of Telecommunications and Engineering, Polytechnic University of Catalonia, Barcelona, Spain, 2018.
+
+## Standards Development
+#### IEEE Standards Association
+* **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
+* **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
+
 ## Conference Talks
 * 3rd Workshop on 5G Technologies for First Responder and Tactical Networks, New York, US, 2020 
 * IEEE Globecom, Workshop on Blockchain in Telecommunications, Hawaii, US, 2019
@@ -59,13 +64,7 @@ Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockch
 * Enterprise Connect Conference, Orlando, US, 2017
 * Twilio Signal Conference, San Francisco, US, 2016
 
-## Standards Development
-#### IEEE Standards Association
-* **Project Lead**, IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, 2020-present
-* **Voting Memeber**, IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, 2020-present
-
 ## Open Source Contributions
-
 
 
 ## Languages
