@@ -1,11 +1,13 @@
 # Steven Platt
-Network Researcher; Member IEEE
+Network Engineer and Researcher; Member IEEE
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
 
 ## Technical Skills
-Python, Java, C, C++, Linux, Signal Processing, Wireless Communications, Blockchain, Algorithms, Network Protocols, Routing Protocols, Kubernetes, Docker
+* Advanced: Python, Linux, Wireless Communications  
+* Intermediate: Kubernetes, Docker, Java, Algorithms, Network Protocols,
+* Beginner: C, C++
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*2021 (July)*
