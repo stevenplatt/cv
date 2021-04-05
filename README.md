@@ -6,8 +6,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ## Technical Skills
 * Advanced: Python, Linux, Wireless Communications  
-* Intermediate: Kubernetes, Docker, Java, Algorithms, Network Protocols,
-* Beginner: C, C++, DevOps
+* Intermediate: Docker, Java, Algorithms, Network Protocols, Blockchain
+* Beginner: C, C++, Kubernetes
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*2021 (July)*
