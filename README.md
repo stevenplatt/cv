@@ -20,8 +20,8 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 *Doctoral Researcher*, Barcelona, Spain, 2018-current
 
-* Research Focus: Congestion Control, Wireless Medium Access Control, Blockchain application in wireless networks.
-* Published research at top ranked institutions including MDPI Journal Sensors (SJR Q1), and IEEE GlobeCom.
+* Published research at top ranked journals and conferences including MDPI Journal Sensors (SJR Q1) and IEEE GlobeCom.
+* Programmed network simulations and research prototypes using the Python programming language. 
 * Led lecture and/or lab sections for the following undergraduate courses: Radio Communications, Networks, Blockchain Technologies.
 
 ### Twitter.com
