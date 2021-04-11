@@ -26,7 +26,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Twitter.com
 
-*Systems Engineer II (Telephony Architect)*, San Francisco, US, 2014-2017
+*Systems Engineer II - Telephony Architect*, San Francisco, US, 2014-2017
 
 * Service owner for global telephony architecture. 
 * Scaled company SIP telecom network from 2 installations, to 23 locations on 5 continents.
@@ -35,7 +35,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Salesforce.com
 
-*Network Engineer (Infrastructure Operations)*, San Francisco, US, 2012-2014
+*Network Engineer - Infrastructure Operations*, San Francisco, US, 2012-2014
 
 * Principle network deployment engineer; completed network deployment for facilities in the United States, United Kingdom and Australia.
 * Global support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
