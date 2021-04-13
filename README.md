@@ -20,7 +20,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 *Doctoral Researcher*, Barcelona, Spain, 2018-current
 
-* Wrote network simulations and experimentation in the Python programming language using the NumPy and Pandas libraries for data visualisation.
+* Wrote network simulations and algorithms in the Python programming language using the NumPy and Pandas libraries for data visualisation.
 * Published research at top ranked journals and conferences including MDPI Journal Sensors (SJR Q1) and IEEE GlobeCom.
 * Led lecture and/or lab sections for the following undergraduate courses: Radio Communications, Networks, Blockchain Technologies.
 
