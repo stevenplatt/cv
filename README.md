@@ -20,22 +20,22 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 *Doctoral Researcher*, Barcelona, Spain, 2018-current
 
+* Wrote network simulations and experimentation in the python programming language using the NumPy and Pandas libraries for data visualisation.
 * Published research at top ranked journals and conferences including MDPI Journal Sensors (SJR Q1) and IEEE GlobeCom.
-* Programmed network simulations and research prototypes using the Python programming language. 
 * Led lecture and/or lab sections for the following undergraduate courses: Radio Communications, Networks, Blockchain Technologies.
 
 ### Twitter.com
 
 *Systems Engineer II - Telephony Architect*, San Francisco, US, 2014-2017
 
-* Service owner for global telephony architecture. 
-* Scaled company SIP telecom network from 2 installations, to 23 locations on 5 continents.
-* Reduced voice carrier costs globally 72%. 
+* Service owner for global telephony architecture and IT infrastructure global office expansion.
+* Migrated monolith VoIP infrastructure to a microservice design reducing voice carrier costs globally 72%. 
 * Enabled full remote site deployment in 41 countries while reducing site delivery time from 12 weeks to 2.
+* Designed and maintained cloud infrastructure testbed using Amazon AWS.
 
 ### Salesforce.com
 
-*Network Engineer - Infrastructure Operations*, San Francisco, US, 2012-2014
+*Network Engineer - Global Office Expansion*, San Francisco, US, 2012-2014
 
 * Principle network deployment engineer; completed network deployment for facilities in the United States, United Kingdom and Australia.
 * Global support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
