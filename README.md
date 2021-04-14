@@ -1,5 +1,5 @@
 # Steven Platt
-Network Engineer & Researcher; Member IEEE
+Systems engineer, researcher, and developer; Member IEEE.
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
