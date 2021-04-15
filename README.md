@@ -5,7 +5,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 
 ## Technical Skills
-* Advanced: Python, Linux, Wireless Communications  
+* Advanced: Python, Linux, Network Protocols, Signal Processing, Blockchain  
 * Intermediate: Java, Kubernetes, Freeswitch, Algorithms, SDN, NFV, Amazon Web Services (AWS)
 * Beginner: C, C++, Google Cloud Platform (GCP)
 
