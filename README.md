@@ -26,7 +26,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 ### Twitter.com
 
-*Systems Engineer II - Telephony Architect*, San Francisco, US, 2014-2017
+*Systems Engineer II - Global Office Expansion*, San Francisco, US, 2014-2017
 
 * Service owner for global telephony architecture and IT infrastructure global office expansion.
 * Migrated monolith VoIP infrastructure to a microservice design reducing voice carrier costs globally 72%. 
