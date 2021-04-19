@@ -28,10 +28,10 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 
 *Systems Engineer II - Global Office Expansion*, San Francisco, US, 2014-2017
 
+* Deployed automated infrastructre tests and testbed services using Amazon AWS.
 * Service owner for global telephony architecture and IT infrastructure global office expansion.
 * Migrated monolith VoIP infrastructure to a microservice design reducing voice carrier costs globally 72%. 
 * Enabled full remote site deployment in 41 countries while reducing site delivery time from 12 weeks to 2.
-* Deployed automated infrastructre tests and testbed services using Amazon AWS.
 
 ### Salesforce.com
 
