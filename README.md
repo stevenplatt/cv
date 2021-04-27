@@ -1,5 +1,5 @@
 # Steven Platt
-Backend systems engineer, researcher, and developer. Member IEEE.
+Backend research engineer and developer. Member IEEE.
 
 Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
 
@@ -7,7 +7,7 @@ Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, C
 ## Technical Skills
 * Advanced: Python, Linux, Network Protocols, Signal Processing, Blockchain  
 * Intermediate: Java, Kubernetes, Freeswitch, Algorithms, SDN, NFV, Amazon Web Services (AWS)
-* Beginner: C, C++, Google Cloud Platform (GCP)
+* Beginner: C++, Google Cloud Platform (GCP)
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*2021 (July)*
