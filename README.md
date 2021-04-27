@@ -1,7 +1,7 @@
 # Steven Platt
 Backend research engineer and developer. Member IEEE.
 
-Website: https://stevenplatt.github.io, Email: steven@ieee.org, San Francisco, California, US
+Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, California, US
 
 
 ## Technical Skills
