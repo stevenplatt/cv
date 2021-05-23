@@ -26,7 +26,7 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 
 ### Twitter.com
 
-*Systems Engineer II - Global Office Expansion*, San Francisco, US, 2014-2017
+*Systems Engineer II*, San Francisco, US, 2014-2017
 
 * Deployed and managed service testbed using Amazon AWS.
 * Service owner for global telephony architecture and IT infrastructure global office expansion.
@@ -35,7 +35,7 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 
 ### Salesforce.com
 
-*Network Engineer - Infrastructure Operations*, San Francisco, US, 2012-2014
+*Network Engineer*, San Francisco, US, 2012-2014
 
 * Principle network deployment engineer; completed network deployment for facilities in the United States, United Kingdom and Australia.
 * Global support for Cisco LAN, WAN, Wireless and VPN, Juniper firewall, and F5 Load Balancer systems.
