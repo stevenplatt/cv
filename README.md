@@ -1,5 +1,5 @@
 # Steven Platt
-Backend research engineer and developer. Member IEEE.
+Distributed systems research engineer and developer. Member IEEE.
 
 Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, California, US
 
