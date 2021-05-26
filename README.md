@@ -5,9 +5,9 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 
 
 ## Technical Skills
-* Advanced: Python, Linux, Network Protocols, Signal Processing, Blockchain  
+* Advanced: Python, Linux, Network Protocols, Signal Processing, Blockchain, Twilio  
 * Intermediate: Bash, Kubernetes, Freeswitch, Algorithms, SDN, NFV, Amazon Web Services (AWS)
-* Beginner: Java, Google Cloud Platform (GCP)
+* Beginner: Java, Google Cloud Platform (GCP), DevOps
 
 ## Education
 * *PhD. Information and Communications Technologies*, Pompeu Fabra University, Barcelona, Spain, 2018-*2021 (July)*
