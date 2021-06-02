@@ -20,6 +20,7 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 
 *Doctoral Researcher - Distributed Systems*, Barcelona, Spain, 2018-current
 
+* Research Focus: Wireless Communications, Blockchain, and Distributed Systems.
 * Wrote network simulations and algorithms in the Python programming language using the NumPy and Pandas libraries for data visualisation.
 * Published research at top ranked journals and conferences including MDPI Journal Sensors (SJR Q1) and IEEE GlobeCom.
 * Led lecture and/or lab sections for the following undergraduate courses: Radio Communications, Networks, Blockchain Technologies.
