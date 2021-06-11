@@ -60,15 +60,20 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 * IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, *Project Lead*, 2020-present
 * IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, *Voting Memeber*, 2020-present
 
+## Volunteer Experience
+* *Journal Reviewer*, [Sensors MDPI](https://www.mdpi.com/journal/sensors), 2020-current.
+* *Technical Planning Committee*, Springer Nature Group - [International Congress on Blockchain and Applications](https://www.blockchain-congress.net/), 2021-current.
+* *Board of Advisors*, Southern Illinois University at Carbondale - College of Applied Sciences and Arts, 2010-current.
+
+## Open Source Contributions
+* [gnome-shell](https://gitlab.gnome.org/GNOME/gnome-shell), 2020
+
 ## Conference Talks
 * [3rd Workshop on 5G Technologies for First Responder and Tactical Networks](https://futurenetworks.ieee.org/conferences/2020-workshop-tactical-and-first-responder-networks-speaker-track-details), New York, US, 2020 
 * [IEEE Globecom, Workshop on Blockchain in Telecommunications](https://globecom2019.ieee-globecom.org/workshop/ws-27-ieee-globecom-2019-workshop-blockchain-telecommunications-emerging-technologies-nex-0), Hawaii, US, 2019
 * IEEE 5th World Forum on the Internet of Things, Limerick, Ireland, 2019
 * Enterprise Connect Conference, Orlando, US, 2017
 * [Twilio Signal Conference](https://www.youtube.com/watch?v=lFzqYgF2MPQ), San Francisco, US, 2016
-
-## Open Source Contributions
-* [gnome-shell](https://gitlab.gnome.org/GNOME/gnome-shell), 2020
 
 ## Languages
 * English, *native*
