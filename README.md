@@ -29,10 +29,11 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 
 *Systems Engineer II*, San Francisco, US, 2014-2017
 
-* Deployed and managed service testbed using Amazon AWS.
-* Service owner for global telephony architecture and IT infrastructure global office expansion.
+* Managed infrastructure deployments on 5 continents including DNS, server virtualization, and storage arrays. 
 * Migrated monolith VoIP infrastructure to a microservice design reducing voice carrier costs globally 72%. 
 * Enabled full remote site deployment in 41 countries while reducing site delivery time from 12 weeks to 2.
+* Mentored and trainined support engineers as company headcount expanded 100% in 2 years. 
+* Designed and launched new services testbed using Amazon AWS.
 
 ### Salesforce.com
 
