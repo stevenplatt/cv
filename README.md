@@ -59,7 +59,7 @@ Website: https://www.telecomsteve.com, Email: steven@ieee.org, San Francisco, Ca
 
 ## Standards Development
 * IEEE P2677.11™ – Standard for Blockchain-based Omnidirectional Pandemic/epidemic Surveillance: Access to Telecommunications Data, *Project Lead*, 2020-present
-* IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, *Voting Memeber*, 2020-present
+* IEEE P2872™ - Standard for Interoperable and Secure Wireless Local Area Network (WLAN) Infrastructure and Architecture, *Voting Member*, 2020-present
 
 ## Volunteer Experience
 * *Journal Reviewer*, [Sensors MDPI](https://www.mdpi.com/journal/sensors), 2020-current.
